@@ -1,7 +1,7 @@
 {
   "name": "Linux_Droid",
   "version": "1.0.0",
-  "description": "Linyx_Droid - Remote Android Managment Suite",
+  "description": "Linux_Droid - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
